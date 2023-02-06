@@ -1,0 +1,7 @@
+    [webservers:vars]
+    ansible_ssh_private_key_file=~/.ssh/instance-key.pem
+    
+    [webservers]
+    35.177.116.73
+    18.170.28.58
+    13.42.58.38
